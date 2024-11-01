@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Learning C++ and Python!
+## I like to work with Unreal Engine
 
 <!--
 **Contestant0star/Contestant0star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
